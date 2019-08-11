@@ -1,0 +1,16 @@
+.MainContentBorder {
+    background-color: lightblue;
+    border: 5px outset;
+    width: 80vw;
+    height: 40vw;
+    position: relative;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 20% 80%;
+    grid-gap: 3px;
+}
+
+.MainContentBorder > h1 {
+    grid-column: 3/5;
+}
