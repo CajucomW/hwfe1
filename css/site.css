@@ -25,7 +25,6 @@
     border: 5px;
     background-color: #fff10a;
     text-align: center;
-    height: 45%;
 }
 .BarMcd:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -37,7 +36,9 @@
     border: 5px;
     background-color: #fec208;
     text-align: center;
-    height: 67%;
+}
+.BarWen:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .BarCmg {
@@ -46,7 +47,9 @@
     border: 5px;
     background-color: #cf240a;
     text-align: center;
-    height: 84%;
+}
+.BarCmg:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .BarPep {
@@ -55,7 +58,9 @@
     border: 5px;
     background-color: #e68b7d;
     text-align: center;
-    height: 55%;
+}
+.BarPep:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
 .BarCoke {
@@ -64,5 +69,8 @@
     border: 5px;
     background-color: #b3966a;
     text-align: center;
-    height: 32%;
+}
+.BarCoke:hover {
+    animation-duration: 0.5s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
