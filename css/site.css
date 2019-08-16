@@ -39,7 +39,7 @@ h1 {
 
 .BarWendy {
     grid-column: 2;
-    background-color: #fec208;
+    background-color: #ED1B24;
 }
 .BarWendy:hover {
     width: 15.3vw;
@@ -48,7 +48,7 @@ h1 {
 
 .BarChipotle {
     grid-column: 3;
-    background-color: #cf240a;
+    background-color: #451400;
 }
 .BarChipotle:hover {
     width: 15.3vw;
@@ -57,7 +57,7 @@ h1 {
 
 .BarPepsi {
     grid-column: 4;
-    background-color: #e68b7d;
+    background-color: #0085ca;
 }
 .BarPepsi:hover {
     width: 15.3vw;
@@ -66,7 +66,7 @@ h1 {
 
 .BarCoke {
     grid-column: 5;
-    background-color: #b3966a;
+    background-color: #F40000;
 }
 .BarCoke:hover {
     width: 15.3vw;
