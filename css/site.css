@@ -1,5 +1,5 @@
 .MainContentBorder {
-    background-color: lightgray;
+    background-color: lightsteelblue;
     border: 2px solid;
     width: 80vw;
     height: 60vh;
@@ -7,21 +7,22 @@
     margin: auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: 20% 80%;
     column-gap: 10px;
     align-items: end;
     padding-left: 1vw;
     padding-right: 1vw;
 }
 
-.MainContentBorder-h1 {
-    grid-column: 2;
-    padding: 10%;
+h1 {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    margin: 50px;
 }
 
 .BarsInGraph {
-    grid-row: 2;
+    grid-row: 1;
     border: 5px;
+    font-family: 'Bitter', serif;
     text-align: center;
     width: 15vw;
     transition: 0.5s;
